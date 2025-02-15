@@ -8,8 +8,8 @@ FEATURES
 -Basic and easy to handle
 
 -Open source
- 
-(if you mod the code give credit for the base code)
+ (if you mod the code give credit for the base code)
+
 -Comes in Spanish And English 
 
 
