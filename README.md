@@ -13,7 +13,7 @@ a free basic antivirus
 -Comes in Spanish And English 
 
 
-#-REQUIREMENTS
+#REQUIREMENTS
 
 -A Windows PC that supports Batch script
 
