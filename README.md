@@ -17,3 +17,7 @@ a free basic antivirus
 
 -Must be in C:drive directory for proper use
 
+ # MORE INFORMATION
+
+- New Total Protection Antivirus (MaX edition) has a separate repository of your looking for that.
+
