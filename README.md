@@ -1,4 +1,4 @@
-# Total-protection-antivirus
+# Total-protection-antivirus (Basic edition)
 a free basic antivirus
 
 # FEATURES
@@ -9,13 +9,11 @@ a free basic antivirus
 
 -Open source
  
-
--Comes in Spanish And English 
-
-
 # REQUIREMENTS
 
 -A Windows PC that supports Batch script
 
--Know English (Only language supported at the moment)
+-150 Mb+ drive
+
+-Must be in C:drive directory for proper use
 
