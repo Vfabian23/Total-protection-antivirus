@@ -19,5 +19,5 @@ a free basic antivirus
 
  # MORE INFORMATION
 
-- New Total Protection Antivirus (MaX edition) has a separate repository of your looking for that.
+- New Total Protection Antivirus (MaX edition) has a separate repository if your looking for that.
 
